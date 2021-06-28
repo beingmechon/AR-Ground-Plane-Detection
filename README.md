@@ -1,4 +1,5 @@
 # AR-Ground-Plane-Detection
 
+Animating barbarian along with buttons with weather update in your location. 
 
-See sample app video here https://youtu.be/HnIYezDEXho
+See demo video of app here https://youtu.be/HnIYezDEXho
